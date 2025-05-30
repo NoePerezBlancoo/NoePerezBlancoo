@@ -15,8 +15,8 @@ Soy un **Desarrollador Full Stack** con formación en **Desarrollo de Aplicacion
 - 💡 **Misión**: Impulsar la innovación a través de tecnología y gestión efectiva.
 - 🛠 **Habilidades técnicas**: JavaScript, PHP, SQL, React, Node.js, MySQL, Git, APIs REST
 - 📊 **Habilidades de liderazgo**: Metodologías ágiles (Scrum, Kanban), gestión de equipos, planificación estratégica
-- 🌍 **Ubicación**: [Tu ciudad/país]
-- 📫 **Contacto**: [tu.email@ejemplo.com] | [LinkedIn](#) | [X/Twitter](#)
+- 🌍 **Ubicación**: [España]
+- 📫 **Contacto**: [noeperezblanco1992@gmail.com] | [LinkedIn](#) | [X/Twitter](#)
 
 ---
 
