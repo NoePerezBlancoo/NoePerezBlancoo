@@ -66,6 +66,13 @@ Portfolio centrado en mi experiencia como **Responsable IT / Tech Lead industria
 
 [Repositorio](https://github.com/NoePerezBlancoo/portfolio-noe)
 
+### Más proyectos públicos
+
+- ⚙️ **[KPI_DOCKER](https://github.com/NoePerezBlancoo/KPI_DOCKER)** — laboratorio Industria 4.0 con OPC UA, Python, MySQL, SCADA y Docker.
+- 🛠️ **[Mantenimiento / ITFlow Manager](https://github.com/NoePerezBlancoo/Mantenimiento)** — gestión IT, incidencias, activos, SLA, proveedores, auditoría y reporting.
+- 📊 **[EduLabOps](https://github.com/NoePerezBlancoo/edulabops)** — FastAPI, Celery, PostgreSQL, Redis, Prometheus, Grafana y observabilidad con Docker Compose.
+- 🎫 **[OpsDesk](https://github.com/NoePerezBlancoo/opsdesk)** — plataforma full stack de Service Desk / IT Operations con FastAPI, React y MySQL.
+
 ---
 
 ## Áreas en las que trabajo
